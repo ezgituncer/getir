@@ -1,0 +1,11 @@
+@import 'settings/variable';  //themes' colors
+
+//components...
+@import './component/card';                   // Card, CardBody from 'reactstrap'
+@import './component/catalog_item';           // components/catalog/CatalogItems.js
+@import './component/grid';                   // useless. using for grid presentation
+@import './component/list';
+
+//objects...
+@import 'objects/layout.scss';        // layout settings
+
